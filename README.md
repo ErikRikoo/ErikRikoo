@@ -6,7 +6,7 @@ You will find some in these repositories:
 - [Editor Utilities](https://github.com/ErikRikoo/com.rikoo.editor-utilities), which contains some useful stuff when you do tooling in Unity.
 - [Interface Utilities](https://github.com/ErikRikoo/com.rikoo.interface-utilities), which help you to use interface in Unity.
 - [UI Post Process](https://github.com/ErikRikoo/Unity-UI-Post-Process) allows you to apply a post process to a world space UI.
-- [Dynamic COlor Palette](https://github.com/ErikRikoo/Unity-Dynamic-Color-Palette) is an utility tool that allows you to create dynamic color palette. Thus if you modify the original color it will also update all the elements.
+- [Dynamic Color Palette](https://github.com/ErikRikoo/Unity-Dynamic-Color-Palette) is an utility tool that allows you to create dynamic color palette. Thus if you modify the original color it will also update all the elements.
 - [Text Position Randomizer](https://github.com/ErikRikoo/Unity-Text-Position-Randomizer) is a try on customising TextMeshPro. It will allow you to randomize the character position in the view.
 
 All these tools are still WIP and not completely documentated but I will come back to them soon 😉
