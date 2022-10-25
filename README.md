@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-I am Erik Kubiak, a game developper with a focus on Unity. You will find my website [there](https://erikrikoo.github.io/Portfolio/).
+I am Erik Kubiak, a game developper with a focus on Unity.
 I particularly love writing graphics features and tools.
 You will find some in these repositories:
 - [Editor Utilities](https://github.com/ErikRikoo/com.rikoo.editor-utilities), which contains some useful stuff when you do tooling in Unity.
